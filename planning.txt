@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 Planning de travail
-=======
-Planning de la semaine
->>>>>>> editBranch
+
 Lundi
 Mardi
 Mercredi
